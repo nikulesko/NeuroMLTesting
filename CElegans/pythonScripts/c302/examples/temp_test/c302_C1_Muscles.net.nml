@@ -767,6 +767,9 @@ Parameters and setting used to generate this network:
             </instance>
         </population>
         <population id="VC5" component="GenericNeuronCell" type="populationList">
+	    <annotation>
+		<property tag="radius" value="14.5"/>
+	    </annotation>
             <instance id="0">
                 <location x="-1.15" y="66.549994999999996" z="-12.5"/>
             </instance>
