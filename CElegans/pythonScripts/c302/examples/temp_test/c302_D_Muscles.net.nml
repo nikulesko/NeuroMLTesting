@@ -1155,6 +1155,9 @@ Parameters and setting used to generate this network:
             </instance>
         </population>
         <population id="MVL01" component="GenericMuscleCell" type="populationList">
+	    <annotation>
+		<property tag="radius" value="10"/>
+	    </annotation>
             <instance id="0">
                 <location x="-80." y="-270." z="-80."/>
             </instance>
